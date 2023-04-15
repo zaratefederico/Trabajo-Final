@@ -35,7 +35,7 @@ public class Deporte {
         lista = leer_Arch("d:/Equipos.csv");
         cargar_Equipo(lista);
   
-        lista = leer_Arch("c:/Rondas.csv"); 
+        lista = leer_Arch("d:/Rondas.csv"); 
         cargar_Ronda(lista);
         
         lista = leer_Arch("d:/Partidos.csv");
